@@ -34,3 +34,7 @@
     display:flex;
     justify-content: flex-end;
 }
+
+.img-style :hover{
+    transform:scale(1.1);
+}
