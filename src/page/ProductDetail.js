@@ -47,4 +47,4 @@ const ProductDetail = () => {
   </Container>
 }
 
-export default ProductDetail
+export default ProductDetail;
